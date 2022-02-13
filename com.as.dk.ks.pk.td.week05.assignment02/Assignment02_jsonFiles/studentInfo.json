@@ -1,0 +1,50 @@
+{
+	"firstname" : "Dashmeet",
+	"lastname" : "Kaur",
+	"age" : "26",
+	"phNumber":"647123452",
+	"address" : [
+			{
+			"street" : "mySTreet",
+			"city" : "New Delhi",
+			"state" : "Delhi"
+			},
+			
+			{
+			"street" : "Birkdale",
+			"city" : "Scarborough",
+			"state" : "ON"
+			}
+	],
+	"marks" : [
+	{
+			"subjectName" : "SUBJECT 1",
+			"marks" : "98"
+			},
+			
+			{
+			"subjectName" : "SUBJECT 2",
+			"marks" : "97"
+			},
+			
+			{
+			"subjectName" : "SUBJECT 3",
+			"marks" : "79"
+			},
+			{
+			"subjectName" : "SUBJECT 4",
+			"marks" : "89"
+			},
+			{
+			"subjectName" : "SUBJECT 5",
+			"marks" : "78"
+			}
+			
+	],
+	
+	
+	"base": 80.8,
+	"height": 89.0,
+	"side": 74.2	
+	
+}

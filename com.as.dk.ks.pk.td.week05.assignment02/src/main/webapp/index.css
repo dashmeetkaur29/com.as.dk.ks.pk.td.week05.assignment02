@@ -1,0 +1,76 @@
+/* Date - 10 Feb 2022
+Author - Kulwinder Singh
+Description - CSS Page for the index
+*/
+@charset "UTF-8";
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+}  
+
+.login{  
+        width: 300px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin-top:120px;
+        
+        padding: 30px;  
+        background: grey;  
+        border-radius: 15px ;  
+         text-align:center;
+          
+}  
+h2{  
+    text-align: center;  
+    color: #277582;  
+    padding: 30px;  
+}
+label{  
+    color: #08ffd1;  
+    font-size: 17px;  
+} 
+#Uname{
+	width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;
+}
+
+#myFooter{
+	background-color:pink;
+	border:2px;
+	padding:45px;
+	margin:40px 150px 50px 485px;
+	width:300px;	
+}
+
+ul{
+	color:red;
+}
+
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+  
+  
+}
+a{  
+    float: center;  
+    background-color: grey;  
+}
